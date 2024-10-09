@@ -1,0 +1,73 @@
+export const mapClasses = [
+    "variant-1",
+    "variant-2",
+    "variant-3",
+    "variant-1",
+    "variant-2",
+    "variant-3",
+    "variant-1",
+    "variant-2",
+    "variant-3",
+    "variant-1",
+];
+export const previews = [{
+        img: "./assets/img-1.jpg",
+        title: "Tropical Beach Paradise",
+        tags: "Beach, Relaxation, Tropical, Vacation",
+        description: "Experience the serene beauty of a tropical beach, where white sands meet crystal-clear waters.",
+    },
+    {
+        img: "./assets/img-2.jpg",
+        title: "Mountain Adventure",
+        tags: "Mountain, Hiking, Adventure, Nature",
+        description: "Embark on an adventurous journey through rugged mountains, where breathtaking views await at every turn. ",
+    },
+    {
+        img: "./assets/img-3.jpg",
+        title: "Cosmopolitan City Escape",
+        tags: "City, Culture, Shopping, Nightlife",
+        description: "Explore the vibrant streets of a cosmopolitan city, full of culture, fine dining, and exciting nightlife.",
+    },
+    {
+        img: "./assets/img-4.jpg",
+        title: "Wildlife Safari",
+        tags: "Safari, Wildlife, Adventure, Nature",
+        description: "Take a thrilling wildlife safari and get up close with majestic animals in their natural habitat.",
+    },
+    {
+        img: "./assets/img-5.jpg",
+        title: "Desert Dunes",
+        tags: "Desert, Adventure, Camping, Nature",
+        description: "Explore the vast, rolling dunes of the desert.",
+    },
+    {
+        img: "./assets/img-6.jpg",
+        title: "Jungle Expedition",
+        tags: "Jungle, Adventure, Wildlife, Exploration",
+        description: "Venture deep into the jungle and discover the untamed beauty of nature.",
+    },
+    {
+        img: "./assets/img-7.jpg",
+        title: "Private Island Getaway",
+        tags: "Island, Luxury, Exclusive, Resort",
+        description: " Crystal-clear waters and secluded beaches make this the ultimate getaway.",
+    },
+    {
+        img: "./assets/img-8.jpg",
+        title: "Medieval Castle Tour",
+        tags: "History, Culture, Castle, Heritage",
+        description: "Step back in time and explore ancient castles that have stood the test of time. A dream for history buffs and culture enthusiasts.",
+    },
+    {
+        img: "./assets/img-9.jpg",
+        title: "Majestic Waterfalls",
+        tags: "Waterfall, Nature, Photography, Adventure",
+        description: "Marvel at the majestic beauty of cascading waterfalls set in stunning natural landscapes.",
+    },
+    {
+        img: "./assets/img-10.jpg",
+        title: "Northern Lights Adventure",
+        tags: "Aurora, Adventure, Nature, Winter",
+        description: "A once-in-a-lifetime experience for anyone seeking natural wonders in the Arctic.",
+    },
+];
